@@ -30,5 +30,6 @@ node_modules
 # Garbage files
 .DS_Store
 
-#file idea
-/.idea
+# file: ~/.gitignore_global
+.DS_Store
+.idea
